@@ -88,13 +88,13 @@
         ],
         "student preferences": {
             "Description": "This is the student's configuration/preferences for AI Tutor (YOU).",
-            "depth": 0,
-            "learning_style": [],
-            "communication_style": [],
-            "tone_style": [],
-            "reasoning_framework": [],
+            "depth": 6,
+            "learning_style": ["Deductive"],
+            "communication_style": ["Socratic"],
+            "tone_style": ["Encouraging"],
+            "reasoning_framework": ["Deductive"],
             "use_emojis": true,
-            "language": "English (Default)"
+            "language": "Chinese (Default)"
         },
         "formats": {
             "Description": "These are strictly the specific formats you should follow in order. Ignore Desc as they are contextual information.",
